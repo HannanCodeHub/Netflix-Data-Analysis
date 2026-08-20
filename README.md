@@ -1,4 +1,4 @@
-````markdown
+
 # 🎬 Netflix Data Analysis & Visualization Dashboard
 
 A Python-based **Netflix Data Analysis and Visualization project** that explores the Netflix Titles dataset through data cleaning, exploratory data analysis (EDA), statistical insights, and an interactive Streamlit dashboard.
@@ -9,27 +9,27 @@ The project includes both a **Matplotlib-based visualization dashboard** and a *
 
 This project analyzes Netflix movies and TV shows to identify patterns and trends related to:
 
-- 🎬 Movies vs TV Shows
-- 🔞 Content ratings
-- ⏱️ Movie duration
-- 🎥 Top 10 directors
-- 🌍 Top 10 countries
-- 🎭 Top 10 genres
-- 📅 Movies released per year
-- 📺 TV Shows released per year
+* 🎬 Movies vs TV Shows
+* 🔞 Content ratings
+* ⏱️ Movie duration
+* 🎥 Top 10 directors
+* 🌍 Top 10 countries
+* 🎭 Top 10 genres
+* 📅 Movies released per year
+* 📺 TV Shows released per year
 
 The analysis was performed using Python data analysis and visualization libraries, while the final dashboard was built using **Streamlit and Matplotlib**.
 
 ## 🛠️ Technologies Used
 
-- **Python**
-- **Pandas** – Data manipulation and analysis
-- **NumPy** – Numerical operations
-- **Matplotlib** – Data visualization and dashboard creation
-- **Seaborn** – Exploratory data visualization
-- **Streamlit** – Interactive web dashboard
-- **Docker** – Application containerization
-- **Git & GitHub** – Version control
+* **Python**
+* **Pandas** – Data manipulation and analysis
+* **NumPy** – Numerical operations
+* **Matplotlib** – Data visualization and dashboard creation
+* **Seaborn** – Exploratory data visualization
+* **Streamlit** – Interactive web dashboard
+* **Docker** – Application containerization
+* **Git & GitHub** – Version control
 
 ## 🧹 Data Cleaning
 
@@ -37,12 +37,11 @@ The Netflix dataset was cleaned and prepared before analysis and visualization.
 
 The cleaning process included:
 
-- Handling missing values in important columns
-- Handling missing ratings, countries, durations, and release years
-- Separating movie duration into numerical values
-- Processing multiple countries and genres
-- Removing or handling unnecessary data
-- Preparing the data for analysis and visualization
+* Handling missing values in important columns
+* Handling missing ratings, countries, durations, and release years
+* Separating movie duration into numerical values
+* Processing multiple countries and genres
+* Preparing the data for analysis and visualization
 
 ## 📈 Visualizations
 
@@ -53,7 +52,7 @@ The project contains eight major visualizations:
 3. **Movie Duration Distribution** – Analyzes movie durations in minutes.
 4. **Top 10 Directors** – Identifies directors with the highest number of titles.
 5. **Top 10 Countries** – Shows countries producing the highest number of Netflix titles.
-6. **Top 10 Genres** – Highlights the most common genres.
+6. **Top 10 Genres** – Highlights the most common Netflix genres.
 7. **Movies Released Per Year** – Shows the yearly trend of movie releases.
 8. **TV Shows Released Per Year** – Shows the yearly trend of TV show releases.
 
@@ -61,16 +60,16 @@ The project contains eight major visualizations:
 
 A Netflix-themed dashboard was created using Matplotlib with:
 
-- Custom subplot layout
-- Netflix-inspired styling
-- Donut chart
-- Horizontal bar charts
-- Line charts
-- Histogram
-- Custom typography
-- Grid and axis styling
-- Netflix watermark
-- High-resolution PNG export
+* Custom subplot layout
+* Netflix-inspired styling
+* Donut chart
+* Horizontal bar charts
+* Line charts
+* Histogram
+* Custom typography
+* Grid and axis styling
+* Netflix watermark
+* High-resolution PNG export
 
 ## 🌐 Streamlit Dashboard
 
@@ -80,9 +79,9 @@ The Streamlit application can be launched locally using:
 
 ```bash
 streamlit run app.py
-````
+```
 
-The application will then be available at:
+The application will be available at:
 
 ```text
 http://localhost:8501
@@ -204,9 +203,9 @@ The main goals of this project are to:
 * Practice sharing applications through Docker Hub
 
 ## 👨‍💻 Author
+
 **Hannan Ahmed**
 
 GitHub: **HannanCodeHub**
 
-```
-```
+
